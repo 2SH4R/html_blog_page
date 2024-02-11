@@ -41,4 +41,4 @@ This is a webpage titled "The Basic Language of the Web: HTML" featuring informa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/code-magazine-html.git
+   git clone https://github.com/tusharpatowary/blog-page-demo-webprojectd.git
